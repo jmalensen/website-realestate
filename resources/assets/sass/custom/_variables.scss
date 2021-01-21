@@ -1,0 +1,22 @@
+//
+// Custom Variables
+//
+// Here you can add your own variables overrides
+//
+// The file is included before any other variable file,
+// so you can override them because they all use !default
+// --------------------------------------------------
+
+// For example, changing the primary color
+// $primary: ##febe0a;
+$font-size-root: 16px;
+$font-size-menu: 13px;
+$font-size-button: 20px;
+$font-weight-bold: 800;
+$font-size-small:14px;
+$font-size-title:22px;
+
+// Colors
+$color-text-menu: $white;
+$primary-brand: #1b1c1e;
+$secondary-brand: #ca4f1c;
